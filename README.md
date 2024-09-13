@@ -9,7 +9,6 @@ The tool is user-friendly, with a graphical interface that allows you to input m
 ## Features
 
 - **MP3 Audio Download**: Download the highest quality audio from YouTube and convert it to MP3 format.
-- **MP4 Video Download**: Download the highest quality YouTube video in MP4 format.
 - **Multi-link support**: Input multiple YouTube video links and download them all at once.
 - **User-friendly Interface**: A simple and clean interface to select download options.
 
